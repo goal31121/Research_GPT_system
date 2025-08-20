@@ -1,5 +1,6 @@
 # Research_GPT
-Simple example of autonomous research ran in parallel for an eventual cluster compute solution from my Aetherius Ai Assistant project.  Mainly meant for others to use in their projects.
+
+Simple example of autonomous research ran in parallel for an eventual cluster compute solution from my Aetherius Ai Assistant project. Mainly meant for others to use in their projects.
 
 **Websearch Implemented!**
 
@@ -7,7 +8,7 @@ Simple example of autonomous research ran in parallel for an eventual cluster co
 
 Version 0.12
 
--Research GPT now decides for itself if it should conduct a web search or not.  Also serves as a showcase on how to implement simple tools.
+-Research GPT now decides for itself if it should conduct a web search or not. Also serves as a showcase on how to implement simple tools.
 
 -Redid the way if conditions were done to avoid multi-threading issues.
 
@@ -27,7 +28,7 @@ Aetherius GitHub: https://github.com/libraryofcelsus/Aetherius_AI_Assistant
 
 3. Open the program "Git Bash".
 
-4. Run git clone: git clone https://github.com/libraryofcelsus/Research_GPT.git
+4. Run git clone: git clone https://github.com/goal31121/Research_GPT_system.git
 
 5. Open CMD as Admin
 
@@ -43,5 +44,4 @@ Aetherius GitHub: https://github.com/libraryofcelsus/Aetherius_AI_Assistant
 
 11. Copy you Bing api key to key_bing.txt (https://www.microsoft.com/en-us/bing/apis/bing-web-search-api)
 
-12. Run Research GPT with **python Research_GPT.py
-
+12. Run Research GPT with \*\*python Research_GPT.py
